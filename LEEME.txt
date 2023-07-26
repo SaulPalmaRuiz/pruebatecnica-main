@@ -1,0 +1,15 @@
+Versión de PHP: php-8.1.20-Win32-vs16-x64
+
+Versión de MariaDB: 10.4.28-MariaDB
+
+Versión de XAMP: xampp-windows-x64-8.2.4-0-VS16-installer
+
+El proyecto fue compilado utilizando XAMP 
+
+1- Añadir php a las variables de entorno
+
+2- Inicializar Apache y MySQL con XAMP
+
+3- Acceder al sitio y listo
+
+4- http://localhost/pruebaTecnica-main/

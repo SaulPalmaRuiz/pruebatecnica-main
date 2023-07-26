@@ -1,0 +1,19 @@
+.form-group {
+  margin-bottom: 0px; /* Espacio entre cada grupo de label y input */
+}
+label {
+  display: inline-block;
+  width: 210px; /* Ancho del label */
+}
+select{
+    width: 210px; /* Ancho del input */
+}
+input[type="text"] {
+  width: 200px; /* Ancho del input */
+}
+input[type="email"] {
+  width: 200px; /* Ancho del input */
+}
+input[type="checkbox"] {
+  width: 20px; /* Ancho del input */
+}
